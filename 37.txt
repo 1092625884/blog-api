@@ -1,0 +1,947 @@
+BusInfSystEng63(1):5â20(2021)
+https://doi.org/10.1007/s12599-020-00676-7
+RESEARCH PAPER
+Ready or Not, AI Comesâ An Interview Study of Organizational
+AI Readiness Factors
+Jan JoÂ¨hnk â¢ Malte WeiÃert â¢ Katrin Wyrtki
+Received:13March2020/Accepted:20October2020/Publishedonline:22December2020
+(cid:2)TheAuthor(s)2020
+Abstract Artificial intelligence (AI) offers organizations correspondingindicatorsforAIreadinessassessments,and
+much potential. Considering the manifold application discussesthegeneralimplicationsforAIadoption.Thisisa
+areas, AIâs inherent complexity, and new organizational firststeptowardconceptualizingrelevantorganizationalAI
+necessities, companies encounter pitfalls when adopting readiness factors and guiding purposeful decisions in the
+AI. An informed decision regarding an organizationâs entire AI adoption process for both research and practice.
+readiness increases the probability of successful AI adop-
+tionandisimportanttosuccessfullyleverageAIâsbusiness Keywords Artificial intelligence (cid:2) AI adoption (cid:2) AI
+value.Thus,companiesneedtoassesswhethertheirassets, readiness(cid:2)Organizationalreadinessassessment(cid:2)Interview
+capabilities, and commitment are ready for the individual study
+AI adoption purpose. Research on AI readiness and AI
+adoption is still in its infancy. Consequently, researchers
+andpractitionerslackguidance onthe adoptionofAI.The 1 Introduction
+paper presents five categories of AI readiness factors and
+their illustrative actionable indicators. The AI readiness Artificial intelligence(AI) is ageneral-purpose technology
+factors are deduced from an in-depth interview study with (GPT) with a unique learning capability that provides
+25 AI experts and triangulated with both scientific and organizations with potentials for wide-ranging improve-
+practitionerliterature.Thus,thepaperprovidesasoundset mentsaswellasentirelynewbusinessopportunities.Iansiti
+of organizational AI readiness factors, derives and Lakhani 2020. Being a GPT, AI drives changes at the
+task, process, and business model level in a plethora of
+application areas and as such offers a competitive advan-
+ElectronicSupplementaryMaterial Theonlineversionofthis tage to organizations (Brynjolfsson and McAfee 2017).
+article(https://doi.org/10.1007/s12599-020-00676-7)containssup- Ample access to improved learning algorithms and avail-
+plementarymaterial,whichisavailabletoauthorizedusers.
+able AI use cases as well as corresponding solutions
+facilitate AI adoption in organizations. In 2019, 80\% of
+Acceptedaftertworevisionsbytheeditorsofthespecialissue
+large organizations aimed to adopt or had adopted some
+J.JoÂ¨hnk(&)(cid:2)K.Wyrtki form of AI (Gartner 2019; Ghosh et al. 2019). However,
+ProjectGroupBusiness&InformationSystemsEngineeringof
+most organizations use AI in single pilots, whereas only
+theFraunhoferFIT,FIMResearchCenter,Wittelsbacherring10,
+8\% of organizations have adopted AI in core practices
+95444Bayreuth,Germany
+e-mail:jan.joehnk@fit.fraunhofer.de (Fountaine et al. 2019). Due to AIâs nature as a GPT,
+possible application scenarios are not always directly
+K.Wyrtki
+e-mail:katrin.wyrtki@fit.fraunhofer.de obviousand organizations must understand the technology
+todecideontheintendedadoptionpurpose(Jovanovicand
+M.WeiÃert
+Rousseau 2005). Consequently, the adoption of AI poses
+FIMResearchCenter,UniversityofBayreuth,UniversitaÂ¨tsstraÃe
+challenges on an organizational, technical, and individual
+30,95447Bayreuth,Germany
+e-mail:malteweissert@gmail.com level (Baier et al. 2019; Bughin et al. 2017). Thus,
+1236 J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021)
+organizations must proactively cope with the challenges readinessandfosteringAIadoption(Alsheibanietal.2018;
+caused by AI to mitigate risks and successfully adopt AI. Pumplun et al. 2019). Thus, we ask:
+Research on AI adoption can draw on the two estab-
+WhatfactorsconstituteorganizationalAIreadinessto
+lished literature streams of innovation adoption and tech-
+guide the AI adoption process?
+nologyadoptionon the organizational level (e.g., Chwelos
+etal.2001;DamanpourandSchneider2006;Hameedetal. Weconductanin-depthinterviewstudyandcollectdata
+2012). Prior work on innovation adoption has focused on from25AIexpertstoconceptualizerelevantfactorsforan
+the adoption process (Hameed et al. 2012), different organizationâs AI readiness assessment (Schultze and
+adoption factors (Frambach and Schillewaert 2002), or the Avital 2011). We use open and axial coding to deduce AI
+application of adoption models to a specific innovation or readiness factors from the interview data (Corbin and
+technology(OliveiraandMartins 2011).Yet, theliterature Strauss1990)andfurthertriangulateourconceptualization
+emphasizes there is no unifying, one-size-fits-all theory of with readiness and adoption literature as well as insights
+innovation adoption (Molla and Licker 2005). Further, from existing practitioner studies (Flick et al. 2004).
+besides major general factors, innovation adoption ante- Drawing on our insights, we compile five categories â
+cedents remain unspecific (Damanpour and Schneider strategic alignment, resources, knowledge, culture, and
+2006). Organizational readiness for change theory postu- data â with 18 factors specifying distinct action fields of
+lates that a higher level of organizational readiness organizational AI readiness. Further, we operationalize
+increasesthesuccessofinnovationadoptionanddecreases thesefactorswith58illustrativeindicatorsandevaluateour
+the risk of failure (Snyder-Halpern 2001; Weiner 2009). results via a card-sorting procedure in an AI-related
+Mostly, readiness is conceptualized with psychological researchersâ focus group. Finally, we discuss the implica-
+factors such as the commitment to change, as well as tions for the overarching adoption and readiness concepts
+structural constituents as the capability to change and as well as for the literature on managing AI.
+contextual factors (Lokuge et al. 2018; Weiner 2009) Insum,ourpaperisafirststeptowardcomprehensively
+without consensus on related relevant factors (Nguyen conceptualizing and operationalizing organizational AI
+et al. 2019). Consequently, readiness models require con- readiness. As such, we provide additional empirical
+text-specific consideration and need to be tailored to the groundwork for theorizing on technology adoption and
+related domain, i.e. a specific technology (Molla and readinessingeneral.Further,ourAIreadinessfactorsserve
+Licker 2005). asthenecessaryfoundationfor purposefuldecisionsinthe
+Considering AIâs technical characteristics and knowl- entireAIreadinessandadoptionprocess.Hence,weextend
+edge barriers, AI adoption implies a high implementation the body of descriptive knowledge on AI readiness and
+complexity (Gallivan 2001) which differentiates it from provideafirstbuildingblockforprescriptiveknowledgeto
+otherdigitaltechnologiesthataretypicallyeasy-to-useand guide organizations toward successful AI adoption. Future
+easy-to-deploy (Lokuge et al. 2018). Hence, AI adoption researchmaydrawontheseresultsinordertovalidateour
+demandsathoroughunderstandingofrelevantAIreadiness illustrative indicators which assess AI readiness and pro-
+factors, an operationalized readiness assessment, and a vide guidance on how to achieve a required AI readiness
+tailored match between an organizationâs current AI target level.
+readiness and the aspired AI adoption purpose. Under-
+standinghowtheconceptsofAIreadinessandAIadoption
+relate to each other increases the probability of successful 2 Theoretical Background
+AI adoption and is essential to leverage AIâs business
+value. Although AI adoption draws on research on tech- This paperâs theoretical foundation is twofold: First, with
+nology adoption, AIâs specifics require a dedicated inves- AI being a technological innovation, the literature on
+tigation ofreadinessfactors. Existing investigations on the innovation adoption provides the scaffold of our research.
+phenomenon shed light upon the influencing factors of AI Second, research on organizational readiness for change
+adoption with the help of organizational frameworks like emphasizes readiness as a necessary precursor for organi-
+TOE (technological, organizational, and environmental) zational change, such as AI adoption. In this section, we
+(Alsheibani et al. 2018, 2019; Pumplun et al. 2019). embed our work on organizational AI readiness in the
+However, it is unclear which factors are relevant for the conceptual frame of adoption and readiness literature.
+organizational adoption challenges. We seek to conceptu-
+alizeAIreadinessandimportantAIreadinessfactors.This 2.1 Innovation and Technology Adoption
+is a prerequisite to enhancing prescriptive knowledge and
+allowing action-oriented implications for building AI Various disciplines (e.g., sociology, psychology, and IS)
+discuss innovation adoption on an individual and
+123J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021) 7
+organizational level (Gopalakrishnan and Damanpour 2.2 Organizational Readiness for Change
+1997).Adoptionreferstothedecisiontouseaninnovation,
+e.g., product, service, process, technology (Frambach and In line with adoption antecedents, research from different
+Schillewaert 2002). To understand the necessities of disciplines(e.g.,management,health,andIS)discussesthe
+organizational AI use, we focus on organizational tech- concept of organizational readiness for change (Weiner
+nology adoption. Adoption decisions rest on the expecta- 2009).Inessence,readinessindicatesthestatenecessaryto
+tion of improved organizational performance (Hameed engageinaspecificactivity,e.g.,theadoptionofaspecific
+et al. 2012). Hence, the literature investigates the adoption innovation (Lokuge et al. 2018).
+process (Damanpour and Schneider 2006; Rogers 2003), In IS, readiness has been discussed in several contexts,
+factors that lead to the acquisition and continued use of e.g., the adoption of technologies (Abdinnour-Helm et al.
+technology, and related effects on organizational perfor- 2003;Chwelosetal.2001;Lokugeetal.2018).Inaddition
+mance (Hameed et al. 2012; Lokuge et al. 2018; Subra- to e-readiness, which gained popularity as the degree to
+manian and Nilakanta 1996). which nations or organizations were prepared to benefit
+The established innovation adoption process follows from e-innovations (Aboelmaged 2014; Molla and Licker
+three stages: initiation, adoption decision, implementation 2005), the literature discusses digital readiness for the
+(Rogers 2003). In the initiation stage, organizations rec- adoption of digital technologies (Lokuge et al. 2018;
+ognize needs, become aware of innovation, form an atti- Nguyen et al. 2019). Nguyen et al (2019) define digital
+tude toward it, and create a proposal for adoption readiness as ââthe degree to which an organization is ready
+(Gopalakrishnan and Damanpour 1997). In the adoption to digitally transform the current organizationââ. As AI
+decision stage, organizations evaluate an innovation from classifies as digital technology (AËgerfalk 2020), we apply
+various perspectives to accept or reject the proposal. In digital readiness to understand the precursors of AI adop-
+case of acceptance, the implementation stage covers the tion. IS literature describes various jumbled readiness
+acquisition of the innovation, the performance of trials as factors influencing organizational readinessfor technology
+well as continued use (Hameed et al. 2012). In case of adoption. For instance, financial and technological resour-
+rejection, organizations may later choose to reinitiate and ces, management support, organizational culture, commit-
+reassess the adoption process. ment, communication of goals, and partnership readiness
+To investigate technology adoption factors on an orga- (Chwelos et al. 2001; Damanpour and Schneider 2006;
+nizational level, research proposes adoption and imple- Iacovouetal.1995;Lokugeetal.2018;Robeyetal.2008).
+mentation theories, e.g., diffusion of innovation theory Nguyen et al. (2019) systemize digital readiness
+(DOI) (Rogers 2003), TOE framework (Tornatzky et al. according to the three overarching categories of organiza-
+1990),technologyacceptance model(TAM)(Davis1985), tionalassets,capabilities,andcommitment.Bothassetsand
+theory of reasoned action (TRA) (Fishbein and Ajzen capabilitiesarepartoforganizationalresources(Helfatand
+1975), or theory of planned behavior (TPB) (Ajzen 1991). Peteraf 2003). Assets refer to tangible or intangible inputs
+For extensive literature reviews see, e.g., Hameed et al. to production (Helfat and Peteraf 2003), whereas capabil-
+(2012)orOliveiraandMartins(2011).Synthesizingextant ities include organizationsâ measures to change assets
+theories,fourmainadoptiondimensionsexist:Innovationâs (Nguyen et al. 2019). Commitment describes organiza-
+characteristics (e.g., relative advantage, complexity, com- tionsâ willingness and support for innovation initiatives
+patibility, observability, and trialability), managementâs (Molla and Licker 2005; Weiner 2009). Hence, building
+commitment to innovation (e.g., CEO characteristics, digitalreadinessdoesnotdescribeaone-timetransitionbut
+willingness to change, management support), organiza- focuses on the continuous development of factors in the
+tionalcharacteristics(e.g.,scope,size,financialresources), three categories.
+and environmental factors (e.g., competitors, suppliers, In the past, readiness models have been critiqued
+customers) (Molla and Licker 2005; Sharma and Yetton regarding several issues. For one thing, readiness models
+2003). However, adoption models must account for the require adaptations to account for organizationsâ specific
+specific technology in focus and its respective context context, such as industry or organizational particularities.
+(MollaandLicker2005).Hence,theresearchmostlyeither For another thing, readiness models and their results often
+investigates singular specific adoption factors, e.g., man- bear a bias due to companiesâ self-assessment. Still,
+agement support (Sharma and Yetton 2003), or provides a readiness is an important precursor of and organizational
+compilation of factors based on the above-mentioned the- capability for successful technology adoption. Also, orga-
+ories relatedtoa specific technology andcontext (Oliveira nizations face the risk of failure when not being ready for
+and Martins 2011). adoption.Consequently,readinessmodelsareanimportant
+tool to assess the organizational state of preparation to
+1238 J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021)
+exploit the potential of an innovation (Molla and Licker organization by fostering their AI readiness first (Al-
+2005). sheibani et al. 2019; Baier et al. 2019; Gallivan 2001).
+Owing to its specifics and its challenges opposed to other
+2.3 AI Specifics for Adoption and Readiness technologies,AIrequiresanexplicitdiscussion againstthe
+backdropofresearchontechnologyadoptionandreadiness
+AI comprises a set of underlying techniques to enable on the organizational level. However, the research on
+agents to act intelligently (Russell et al. 2016). Hence, organizational AI adoption and AI readiness is still in its
+organizations may use AI-based systems for various pur- infancy (Alsheibani et al. 2018; Pumplun et al. 2019) (see
+poses such as autonomous vehicles, medical diagnoses, or also Table 2 in Appendix I, available online via http://
+virtual assistants (Bughin et al. 2017). AIâs broad appli- springerlink.com).
+cability both to address existing problems as well as to Alsheibani et al. (2018) describe AI readiness as ââthe
+exploreentirelynewbusinessopportunitiesallowsAItobe preparedness of organizations to implement change
+characterized as a GPT (Bresnahan and Trajtenberg 1995; involving applications and technology related to AIââ.
+Brynjolfssonetal.2017).Inspecific,AIâsnatureasaGPT Particularly the AI readiness assessment before the adop-
+impliesacompletelynewformofapproachingproblemsof tion decision enables organizations to proactively identify
+various kinds and enables a significant impact on various potentialsgapsforsuccessfulAIadoption(Alshawi2007).
+industries(Magistrettietal.2019).Consequently,AIopens Suchanassessmentprovidesdecision-relevantinformation
+a wide-ranging array of different adoption purposes, i.e. and reduces uncertainty regarding the AI adoption deci-
+organizationsâ goals and objectives for AI adoption in sion. Further, the continuous assessment of AI readiness
+specific application scenarios. Because of its widespread enables organizations to steer the development of their
+potential, organizations have to understand AI as technol- assets, capabilities, and commitment (Molla et al. 2009).
+ogy and derive the right level of ambition for possible Consequently, if an organization is capable of accurately
+applications (Davenport 2018). measuring its AI readiness and drawing the right conclu-
+Likewise, AIâs variety of adoption purposes requires sions before the adoption decision, it can reduce risk and
+organizations to create the necessary conditions, and improve the adoption decision.
+introduce managerial practices for successful AI adoption Alsheibanietal.(2018)investigateAIreadinessthrough
+(Brynjolfsson and McAfee 2017; Hofmann et al. 2020). the lens of the TOE framework (Tornatzky et al. 1990).
+Differingfromotherdigitaltechnologies,AIcanhardlybe Further, they presume that high AI readiness positively
+characterized as easy-to-use or easy-to-deploy (Lokuge impacts AI adoption success (Alsheibani et al. 2018).
+et al. 2018). Specifically, AI adoption comprises technical Pumplunetal.(2019)alsodrawontheTOEframeworkfor
+(e.g., limited technology capabilities) and non-technical investigating AI readiness and extend it with AI-specific
+(e.g., lack of leadership support) challenges that arise factors.However,tothebestofourknowledge,there isso
+before and during implementation. Considering these far no structured conceptualization of readiness for tech-
+complexitiesandneworganizationalnecessities,successful nology on the organizational perspective. Hence, organi-
+AI adoption requires coordinated activities across the zations yet lack guidance on organizational factors, which
+AI readiness AI adoption (Alsheibaniet al. 2018, 2019; Pumplunet al. 2019)
+Adoption process
+(e.g. Rogers 2003; Damanpourand Schneider 2006; Hameed et al. 2012)
+Organizational
+readiness Phase Initiation Adoption decision Implementation
+assessment
+â¢Identify organizational necessities Sub- Awareness Consideration Intention Evaluation Resource Acquisition Continued
+and respective organizational phase allocation use
+readiness factors
+(cid:129)Prioritize and assess relevant Goal Identification of innovation and possible Decision to adopt / reject Organizational acceptance and use
+readiness factors application scenarios the innovation of the innovation
+(cid:129)Purposefully adapt and develop
+organizational assets, capabilities,
+and commitment
+Organizational readiness
+for change Innovation adoption
+(e.g. Mollaand Licker 2005; Focus on the individual level: TAM, TRA, TPB
+Weiner 2009) (e.g. Davis 1985; Fishbein and Ajzen1975; Ajzen1991)
+Readiness in IS Focus on the organizational level: DOI, TOE
+(e.g. Lokugeet al. 2018; (e.g. Rogers 2003; Tornatzkyet al. 1990)
+Nguyen et al. 2019)
+Fig.1 OurFocusonAIReadinessintheContextofAdoptionandReadinessLiterature
+123J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021) 9
+Interview experts
+25
+Focus: technological, organizational, environmental AI readiness factors Focus: organizational AI readiness factors
+Indicator development
+Factor identification, harmonization, and categorization
+and validation
+(cid:129) Goal: (cid:129) Goal: (cid:129) Goal: (cid:129) Goal:
+Extract AI readiness factors Extract and harmonize Harmonize and group Develop indicators and
+AI readiness factors AI readiness factors validate the results
+(cid:129) Activities: (cid:129) Activities: (cid:129) Activities: (cid:129) Activities:
+Open coding of 12 interviews, Open coding of 12 interviews, Axial coding with five joint Card-sorting with focus group,
+weekly joint discussions weekly joint discussions coding workshops, weekly joint discussions
+weekly joint discussions
+(cid:129) Outcome: (cid:129) Outcome:
+492 codes in 6 categories 895 codes in 39 categories (cid:129) Outcome: (cid:129) Outcome:
+and 87 subcategories 1) 35 AI readiness factors in 18 AI readiness factors in
+12 categories 5 categories and 58 indicators
+2) 23 AI readiness factors in
+8 categories
+Triangulation with insights from AI-related literature and practitioner studies
+Fig.2 OverviewofOurResearchApproach
+are necessary to derive action-oriented implications for AI of AI readiness factors. We deduced AI readiness factors
+readiness. fromboth theliterature andinterviewswith 25AIexperts.
+Other insights suggest tackling common AI adoption Figure. 2 summarizes our research approach which we
+barriers such as a lack of leadership support and a lack of elucidate in the following.
+funding (Alsheibani et al. 2019). Yet, avoiding these
+common pitfalls does not address the underlying infras- 3.1 Data Collection
+tructural and cultural preconditions to AI readiness (Pum-
+plun et al. 2019). Further, research remains vague as to We conducted an in-depth interview study to better
+where organizations should address these AI-specific fac- understand the challenges and potentialsof AI adoptionas
+torsintheadoptionprocessandwhatimplicationsarisefor well as relevant AI readiness factors in companies (Myers
+the continued use. and Newman 2007). We used purposive sampling to
+In sum, research so far provides fruitful theoretical identify 25 AI experts (E01âE25) from our professional
+groundwork but cannot provide relevant organizational AI network that are considered as key informants regarding
+readiness factors. Drawing on this previous work, we seek digital transformation and the adoption of emerging tech-
+to provide a sound set of organizational AI readiness fac- nologies such as AI in their organizations (Bhattacherjee
+tors and corresponding indicators for AI readiness assess- 2012) (Bhattacherjee 2012). Our participants contribute
+ments. This will enable us to better understand AIâs perspectives from different organizational contexts (e.g.,
+specifics and discuss the implications for the AI adoption AI adoption stage, AI users and providers, industry, and
+process as well as the commonalities and distinct features company size; see Table 3 in Appendix II). This allowed
+compared to the existing findings for other technologies. ustoholisticallyexploreAIreadinessfactorsandreflecton
+Figure 1 summarizes our conceptual foundation and sem- their contingencies within the specific organizational con-
+inal work. text. We stopped data collection after 25 interviews
+becauseno significantnew topicswere broughtup and the
+emerging factors were increasingly repetitive.
+3 Method We structured the interviews into three parts: First, we
+asked theparticipants fortheir understandingandprevious
+We used a qualitative research approach to understand AI experiences with AI. This created a shared understanding
+readiness factors (Bhattacherjee 2012). Thus, we account for the rest of the interview (Myers and Newman 2007).
+for the complexity and novelty of the wide-spread AI Second, we asked for human-AI interaction characteristics
+adoption in companies to derive a thorough understanding and their implications for companies. Third, we asked the
+12310 J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021)
+interviewees for AI-related challenges and potentials, AI After identifying and consolidating the AI readiness
+readinessfactors,andtheirorganizationsâeffortstowardAI factors, we developed preliminary illustrative indicators
+adoption. We asked predominantly open-ended questions thatprovideastartingpointforfutureresearchtoassessAI
+to account for our paperâs in-depth research approach and readiness (Burton-Jones and Grange 2013). We used
+to generate rich data (Bhattacherjee 2012; Myers and feedbackfromafocusgrouptofurthertrimandrestructure
+Newman 2007; Schultze and Avital 2011). We recorded, our results (see Appendix III for further details). Next, we
+transcribed, and analyzed 1385 interview minutes with the presentourfinalcompilationof18AIreadinessfactorsand
+expertsâ consent. 58illustrativeindicators(seeTable 5inAppendix IVfora
+complete list).
+3.2 Data Analysis and Identification of AI Readiness
+Factors
+4 Organizational AI Readiness Factors
+For data analysis, we used MAXQDA and started with
+open coding of 12 interviews. One author assigned WestructuretheAIreadinessfactorsinfivecategoriesthat
+descriptive codes to our intervieweesâ statements to get an specify action fields and necessary conditions for suc-
+understanding of the dataâs breadth and depth (SaldanËa cessfulAIadoption(seeTable 1).Thesecategoriesprovide
+2013). This first coding round resulted in six broad cate- a specific organizational chassis for developing AI readi-
+gories related to AI readiness and a total of 492 codes. ness (Pumplun et al. 2019). AI characteristics provide
+Next,thesameauthorcontinuedwithasecondopencoding furtherreasoningforeachfactorâsorganizationalnecessity.
+round for theremaining twelve interviews. Inweeklyjoint
+sessions, all authors discussed insights and emerging links 4.1 Strategic Alignment
+to align the further coding with the theoretical considera-
+tions. After consolidating the coding set, we derived 895 AI-business potentials describe an organizationâs fit and
+codes in 39 categories and 87 subcategories. compatibility toward AI innovations (Shahrasbi and PareÂ´
+In the third coding round, we used axial coding to 2014). Specifically, AI readiness requires awareness of
+specify properties and dimensions of the existing cate- appropriate use cases for either solving an organizational
+goriesandsubcategories(CorbinandStrauss1990).During problem or addressing new opportunities (Hofmann et al.
+axial coding, we discussed intermediate results within the 2020; Pumplun et al. 2019).Additionally,companies must
+research team in five coding workshops to immerse our- examineAI-basedsystemsfortheirrelativeadvantageover
+selves in the field and gain new insights from the coded othersolutions(Pumplunetal.2019).OwingtoAIâsbroad
+data (SaldanËa 2013). Each workshop was face-to-face and applicability along value chains, organizations need to
+lasted about 60 min. In these workshops, we reviewed execute novel approaches for use case discovery that
+existing codes, discussed ambiguities, and reclassified or emphasize the opportunity perspective to explore pur-
+renamed factors to enhance clarity and meaning. Thus, we poseful AI-business potentials (Hofmann et al. 2020).
+systematically developed AI readiness factors following
+ââInprofessionallife,Iwouldsaythatthereisactually
+the established TOE framework and excluded categories,
+noareainthevaluechaininwhichAIcannotbeused
+subcategories, and codes with no immediate link to AI
+to fundamentally change something. [â¦]. Just think
+readiness. This resulted in 35 AI readiness factors in 12
+of[â¦]yourbusinesscases.Wherearethingsthatare
+categories. In line with our research question, we subse-
+not good so far, or are too expensive, or rather need
+quentlynarrowedthefocusonorganizationalfactorsinthe
+optimization under economic aspects?ââ (E10)
+TOE framework. Thereby, we carved out factors at the
+locus of companiesâ managerial actions regarding organi- Customer AI readiness describes the knowledge and
+zational assets, capabilities, and commitment toward AI. acceptance of customers toward using AI-integrated
+We either transformed technological and environmental offerings (Pumplun et al. 2019). Owing to AIâs inherent
+factorsto depict the organizational measures and reactions complexity, AI-based systems often lack transparency,
+tosuchfactorsordroppedtechnologicalandenvironmental whichhinderscustomerstoacceptthoseofferings.Further,
+factorswithnoorganizationalrepresentation.Thisresulted customers who lack knowledge and acceptance build
+in 23 organizational AI readiness factors in 8 categories. expectations toward AI that cannot be met, leading to
+During the entire data analysis, we continuously reflected frustration when using AI-integrated offerings (Brill et al.
+onthedataandouremergingunderstandingwithmemoing 2019). Consequently, organizations need to prepare cus-
+(SaldanËa 2013). Further, we used AI-related literature and tomers by forming adequate expectations, because cus-
+practitioner studies to triangulate our conceptualization of tomers build acceptance through perceived usefulness
+AI readiness factors (Flick et al. 2004). (Davis 1985).
+123J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021) 11
+Table1 OrganizationalAIReadinessFactors
+Factor AIcharacteristics Organizationalnecessity
+Strategic AI-business AIfunctionsarehighlyversatileandbroadlyapplicable AI-businesspotentialsensurethatAIadoptionis
+alignment potentials beneficialandsuitablefortheorganization
+CustomerAI AIuserequiresanunderstandingofthecomplexityand CustomerAIreadinessenablesinternalorexternal
+readiness lackoftransparencyoflearningalgorithms customerstoappropriatelyuseAI-integrated
+offerings
+Top AIâsinherentcomplexityposeschangenotonlywithinbut TopmanagementsupportsignalsAIâsstrategic
+management acrossorganizationallevelswhichrequirestop relevancetotheorganizationandfostersAI
+support managementcommitment initiatives
+AI-processfit AI-basedsystemsaremorepreciseifprocessesare AI-processfitthroughstandardization,
+structuredandprovidestandardizeddatainput reengineering,andimplementationofnewprocesses
+facilitatesAIadoption
+Data-driven AI-basedsystemsarefundamentallydata-drivenand Data-drivendecision-makingfostersAIadoption
+decision- requireopennesstoincorporatesuchinsights becausebothutilizedataandstatisticalmethodsto
+making gaininsights
+Resources Financial AI-basedsystemsrequirehighinvestmentstotailorassets StrategicallocationofthefinancialbudgetforAI
+budget andcapabilitiestotheuniquecontextanddata adoptionsupportstheovercomingofinitial
+obstaclesanduncertainty
+Personnel AIadoptionrequiresabroaderspectrumofdifferentroles AIspecialistsandbusinessanalystswithAIknow-
+andknow-howforcorebusinessuse howfacilitateAIadoption
+IT DeployingAIposeshighworkloadsanddatastorage ITinfrastructureenablesAI-relatedactivitiesandAI
+infrastructure requirements integration
+Knowledge AIawareness AIâsunderlyingconcepts,e.g.,machinelearningorthe AIawarenessensuresthatemployeeshaveadequate
+autonomyofdata-baseddecisionsupport,arehardto understandingandexpectationstowardAI
+grasp.
+Upskilling AI-basedsystemsincorebusinessrequireeveryemployee Upskillingenablesemployeestolearnanddevelop
+tohaveabasicunderstandingofAI AIorAI-relatedskills
+AIethics AI-basedsystemsareatriskforbiasedlearningand AIethicscomprisemeasurestopreventbias,safety
+unethicaloutcomes violations,ordiscriminationinAIoutcomes
+Culture Innovativeness EmployeesâfearofAI-inducedjoblossthreatens Innovativenessincreasesemployeesâwillingnessto
+proactiveinnovativeness changethestatusquothroughtheapplicationofAI
+Collaborative AIdeploymentreliesonintegratingdifferentperspectives, Collaborativeworkenablesemployeestoworkin
+work i.e.domain,data,andIT teamsandcombinedifferentskills
+Change EmployeesâlackofunderstandingandfearofAIthreaten Changemanagementhelpsemployeestounderstand
+management theacceptanceofAI-basedsystems andcopewithAI-inducedorganizationalchange
+Data Data AI-basedsystemslearnthroughdifferentdatatypesand DataavailabilitywithintheorganizationfuelsAI
+availability largedataamounts solutions
+Dataquality AI-basedsystemsachievebetterresultsthehigherthe DataqualityensuresaccurateAIoutcomes
+qualityofthedatatheylearnwith
+Data AIpersonnelrequireaccesstorelevantdatasourcesfor DataaccessibilityfacilitatesAIexpertstoeasily
+accessibility deployment prototypeanddevelopAIsolutions
+Dataflow InitialandcontinuoustrainingofAI-basedsystems Dataflowbetweenitssourceanditsuseensures
+requiressmoothandautomateddataflow highdataaccessibilitytoAIexperts
+ââThat is why it ultimately means that the end-user for bottom-up initiatives. Considering the wide range of
+must be prepared, i.e. ideally be taken along, must organizational necessitiesassociated with AI adoption, top
+have a clear expectation or vision of what the (AI) management support is crucial for successful AI adoption.
+system will be able to do in the first minimal viable Experts stressed an organization can only commit to AI
+productvariant.[â¦].Letâsputitthisway:themoreit adoption, once the top management provides an organiza-
+can do and the better it can do what is promised, the tion-wide signal. Strong top management support indica-
+higher the acceptance.ââ (E08) torsareintegratingAIadoptionintostrategy(Bughinetal.
+2017) and fostering AI knowledge and AI awareness
+Top management support describes the willingness to
+(Baslom and Tong 2019).
+commence AI initiatives top-down and to signal support
+12312 J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021)
+ââThe use of AI can only work if it [AI adoption] is ConcerningAIpersonnel,intervieweeshaveparticularly
+drivenfromaboveand[must]thereforestartwiththe identified business analysts and AI specialists as relevant
+board members.ââ (E10) human resources. Business analysts have an abstract
+understanding of AI capabilities (Bawack et al. 2019) as
+AI-process fit describes the necessary linkage between
+well as domain know-how. Therefore, they can facilitate
+an organizationâs AI strategy and its processes to increase
+use case discovery and act as translators between business
+AI readiness. Changes accompanying AI adoption always
+functionsandAIspecialists(Fountaineetal.2019).Inturn,
+affect an organizationâs processes. In this respect, AI-pro-
+AI specialists have dedicated AI-related skills (e.g., data
+cess fit reflects an organizationâs compatibility regarding
+scientists)andcandevelopAIsolutionsbasedonself-build
+AI and is facilitated by a mature process landscape, i.e.
+and pre-built models (Catalyst Fund 2020).
+standardizedandstructuredprocesses(Watsonetal.2019).
+ââSo, having people in the organization that are
+ââNext,ofcourse,areprocesses.IfIdonâthaveproper
+interpreters of the technology, that understand what
+processes [â¦] and if my process allows many indi-
+the business needs [are] and can translate that into
+vidual steps, where a person decides, âgo left, go
+technology needs, and vice versa, [â¦] that whole
+rightâ¦?â So, if a certain degree of standardization is
+cycle [â¦] has to be created.ââ (E03)
+missing,thenitisalsoaverystronghurdle[forAI].ââ
+(E24) The IT infrastructure must be modular to facilitate the
+integrationofnewAIapplicationsandhaveahighcapacity
+Data-drivendecision-making(DDDM)isthepracticeof
+for AI-related data-intensive training and testing proce-
+using insights based on data analytics to make decisions
+dures (Catalyst Fund 2020; Groopman 2018). Thus, orga-
+(CatalystFund2020;ProvostandFawcett2013)insteadof
+nizations focus on developing three underlying IT
+relyingonââgutfeelingorbusinessinstinctââ(Jarrahi2018).
+infrastructure capabilities for AI: data storage capabilities
+DDDM not only leads to performance improvements in
+to generate and store large amounts of data; networking
+organizations but also increases AI readiness as it repre-
+capabilities to access, process, and transport data quickly;
+sents the preliminary practice for AI-driven decision
+and scalable computing power capabilities to handle AI
+making(Colson2019;IansitiandLakhani2020;Microsoft
+workloads (Groopman 2018; Intel 2018).
+2020). Thus, organizations should foster DDDM as an
+organizationalpracticeandprepareemployeesforaculture ââCommunicationtechnologyhascomefarenoughto
+where AI provides complementaryinsightsto support firm transport even large amounts of data quickly and we
+decisions (Jarrahi 2018). also have hardware that can hold and process this
+data. [â¦] And these are the drivers that make it
+ââI coach board members who want to turn their
+technically possible for us to go beyond what was
+division or [â¦] their company into a data-driven
+[previously] possible.ââ (E15)
+company. And for me, data-driven means above all
+[â¦]creating valuewith data.And, ofcourse, AI isa
+4.3 Knowledge
+form of value creation.ââ (E10)
+Employees need AI awareness, i.e. an abstract under-
+4.2 Resources
+standing of cognitive AI functions like perceiving, pre-
+dicting, or generating (Hofmann et al. 2020). This allows
+Financial budget refers to the financial resources that
+employees to see AI as a versatile tool and its application
+organizations allocate toward AI adoption (Pumplun et al.
+potential intheir specificcontext orindustry. Forinstance,
+2019). Since the AI application lifecycle comprises tai-
+employees recognize the importance of high-quality input
+loring AI systemstowardanorganizationâs uniquecontext
+as a prerequisite for high-quality AI outcome (Agrawal
+and data, adopting AI is time and cost-intensive (Hummer
+et al. 2018). As a consequence of building AI awareness,
+etal.2019).Besides,AIadoptionrequiresorganizationsto
+employees gain adequate expectations toward AI.
+invest in building know-how and overcome initial uncer-
+tainty about AI capabilities and their value (Alsheibani ââIt [creating awareness] simply has to be a continu-
+et al. 2019). ousprocessofchange,becauseideallythisawareness
+isthenknownthroughoutthecompany.Peopleknow
+ââBecause itâs just so often that I canât say âHey,
+what you can do with it, what you canât do. And AI
+weâre going tostartwith thetopicofAI andmakeX
+should then essentially be a tool [â¦] to create a
+millionbudgetavailableandplayaroundabitandsee
+solution.ââ (E09)
+what comes out of itâ, thatâs just not how it works.ââ
+(E09)
+123J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021) 13
+Upskilling develops interdisciplinary skillsets that are communicate and work together in cross-functional teams
+necessaryfor thesuccessfulimplementationofAI projects (Davenport 2018; Fountaine et al. 2019). In the context of
+(Davenport 2018). This comprises equipping employees AI, collaborative work is crucial to overcome siloed work
+with AI-related know-how such as statistics, data man- and to identify new use cases that are beneficial to the
+agement, data analytics, or data engineering on the one organization (Fountaine et al. 2019). Thus, organizations
+hand, but also with domain know-how on the other hand should promote different forms of collaboration so that
+(Pumplun et al. 2019). Owing to a shortage of skilled AI employeeswithdifferentskillscancomplementeachother.
+specialists in the labor market, it becomes obligatory for
+ââOn the one hand, Iâm driving the technology for-
+organizations to invest in upskilling employees â capabili-
+ward,asIT.[â¦].Ontheotherhand,Inaturallyneed
+ties (Davenport 2018; Kruse et al. 2019).
+the business departments, i.e. the users of this tech-
+ââFrom the companyâs point of view, it will be nec- nology.ââ (E12)
+essary to make upfront investments and train people,
+Changemanagementhelpsemployeestounderstandand
+train employees, and further qualify them.ââ (E23)
+cope with AI-induced organizational change (Pumplun
+AIethicsincludesnovelmethodstopreventunethicalAI etal.2019).Particularly,change managementisimportant
+outcomeswhich can bearesultofbiased learningorinput to reduce misconceptions regarding AI in terms of fear of
+data. In case of not being ethically ready, organizations possiblejobloss(Fountaineetal.2019).Thisisespecially
+might blindly rely on biased AI outcomes and be held important considering that AI-based systems do not nec-
+liable for discrimination even if unintentional (Agrawal essarilyreplacejobprofilesasawhole,butrathertakeover
+et al. 2018; Dattner et al. 2019). For instance, gender bias repetitive tasks or individual process steps (Brynjolfsson
+in data sets for AI hiring tools can result in biased candi- and McAfee 2017). Like customers, employees must be
+date selection (Tambe et al. 2018). To increase AI readi- made aware of AI benefits through change management to
+ness, organizations need to establish new measures and increase acceptance.
+protocols to prevent discrimination and therefore mitigate
+ââThe challenge then often lies in the dialogue with
+risks for liability (Agrawal et al. 2018; Groopman 2018).
+theemployees.Takingthembythehandandreacting
+ââYou have to be aware [â¦] that the data also con- to their individual situation. [â¦] This is a change
+tainsakindofprejudiceorbias.[â¦].Andifyoujust management task that requires sensitivity.ââ (E24)
+stubbornly apply algorithms to any amount of data,
+then[â¦]decisionswillbemadebuttheymaynotbe 4.5 Data
+entirely correct.ââ (E15)
+Data availability comprises the relevant amount and types
+4.4 Culture of data which are both necessary for AI models to be
+trainedandtogenerateaccuratepredictions(Agrawaletal.
+Innovativeness is based on the amount and pace of adapt- 2018; Kruse et al. 2019). Regarding data type, interview
+ability that organizational members possess (Kruse et al. experts point out that different data types influence AI
+2019). Innovative behavior with a general-purpose tech- readiness. Structured data, for instance, which is stored in
+nologysuch asAI requiresemployeestoinitiate change at two-dimensionalrelationaltables(Linetal.2018),iseasier
+a rapid pace and in many areas so that organizations can to utilize for standardized AI applications. On the other
+realize AIsâ full potential. As such, innovative behavior hand,unstructureddata,suchasaudio,video,orimagefiles
+includes experimentation, risk-taking, and diverse prob- (Groopman 2018), is utilized in more advanced AI appli-
+lem-solving skills (Microsoft 2020; Yuan and Woodman cations like object recognition.
+2010). Since large organizations tend to rely too much on
+ââFirst of all, many people always underestimate the
+the status quo (Pumplun et al. 2019), innovative behavior
+amount of learning data required.ââ (E12)
+should be particularly encouraged.
+Data quality specifies different quality dimensions that
+ââThere are simply more innovative employees who
+verify its suitability for use by data consumers. Improving
+are more open-minded [and] find it easier to try out
+on these quality dimensions increases AI readiness as AI-
+somethingnew.[â¦].Whosimplyplayfullyfaceitfor
+models need to be trained with high-quality data to gen-
+oncewithoutreservations.Earlyadopters[â¦],ifyou
+erate good results (Davenport 2018; Pumplun et al. 2019).
+like.ââ (E12)
+AI-relevant data quality dimensions include, for instance,
+Collaborative work describes the degree to which completeness and correctness (Sidi et al. 2012). Since
+domainexperts,AIspecialists,andITdepartmentsactively organizations often face data quality issues with historical
+12314 J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021)
+data, they need to improve on universal capabilities like value from the wide range of AIâs potential application
+data preparation, data processing, and data quality assur- scenarios. Thus, AI adoption can have different facets
+ance to increase data readiness (Groopman 2018; Iansiti depending on the distinct adoption purpose. The AI adop-
+and Lakhani 2020; Kruse et al. 2019). tion purpose can span from single use-cases to self-con-
+tained AI-driven business models. Hence, organizations
+ââEven if I have built the biggest or the best machine
+must understand AIâs potentials as of where and how AI
+learning model, if bad data comes in, the result will
+can add value.
+be bad too. [â¦] âShit in, shit outâ is the basic prin-
+ciple behind it.ââ (E08) ââThereareorganizationslikeAppleandAmazonthat
+are deeply involved with AI, its creation and uti-
+Data accessibility includes quick and easy access to
+lization in a very complex way and getting very
+data. It is facilitated by access management which grants
+significant results from it. So if organizations under-
+personnel authorized access to various data sources
+stood it better and had more resources to explore it
+throughout the organization (Catalyst Fund 2020). Conse-
+they would be capable of generating some fairly
+quently, AI specialists are enabled to prototype and
+significant returns from the investment into AI but
+develop AI models with appropriate data (Intel 2018).
+most organizations donât really know whatâs its use,
+Furthermore, organizations might simplify data accessi-
+howtogetstarted,whattoexpectfromusecasesetc.
+bilitythroughdatacentralizationmeasures(e.g.,establisha
+So, itâs still very much an exploratory process for
+data lake or a data warehouse) rather than keeping data in
+many companies.ââ (E03)
+distributed data silos (Iansiti and Lakhani 2020; Pumplun
+et al. 2019). This requires organizations to clearly define their AI
+adoption purpose. Subsequently, a holistic AI readiness
+ââThereispreparedness[â¦]inthesenseoftheyhave
+assessment building on our AI readiness factors may help
+to have ready access to data. That data has to be
+organizations to evaluate their status quo and derive cor-
+manageableandmanipulatablebytheseAIsystems.ââ
+responding action fields. However, besides the specific AI
+(E03)
+adoption purpose that may require a different set of pri-
+GooddataflowenablesAIspecialiststomovedatafrom oritiesregardingthefactors,AIreadinessisalsocontingent
+its source to its use. An automated and smooth data flow on the organizational context (e.g., industry, customers,
+facilitates the implementation and maintenance of AI- products).
+basedsystemsastheycontinuouslyprocessdataevenafter
+ââIt would be good if you had something like a
+the initial training. Indicators for good data flow include
+guideline, a checklist, or something where you can
+defined extract-transform-load processes, established data
+determine(a)what degree ofmaturitythecompanies
+pipelines, as well as continuous and automated data
+have today to be AI-ready and (b) what potential is
+streams, among other (Catalyst Fund 2020; Groopman
+therespecificallyincompaniesfortheuseofAI.And
+2018).
+I think that, from my experience, this is completely
+ââSo, on the development side, I am responsible for dependent on the industry, target customer, product,
+data pipeline, [â¦] providing the right data, in the or whatever.ââ (E19)
+right format, in the right population, in the right
+Drawing on the 58 self-developed illustrative indicators
+quality to our machine learning engineers.ââ (E13)
+for the AI readiness factors (see Table 5 in Appendix IV),
+companies may assess their organizational AI readiness
+4.6 Emerging Insights Beyond the AI Readiness
+resulting in an overview of their readiness level per factor
+Factors
+(seeFig. 4foranexemplaryvisualizationinAppendix V).
+While such an assessment bears some potential pitfalls, it
+The AI readiness categories and factors describe the
+also facilitatescompanies toderive actionable measuresto
+organizational chassis for developing AI readiness.
+improve their current AI readiness level to the desired
+Besides, our explorative interviews provide insights that
+target level. This may lead to iterative cycles of
+help to understand the hurdles for successful AI adoption.
+(re)defining the AI adoption purpose, assessing and
+Consequently, our findings are a necessary precursor to
+developing AI readiness, and AI adoption.
+indicate how organizations can explore AIâs potentials.
+However, owing to AIâs characteristics as GPT, AI adop- ââIf I donât have anything to do with AI in my core
+tion differentiates from previously discussed technology business yet, what do I have to do? First, I must find
+adoption. Organizations define and pursue individual AI small use cases where I can demonstrate the advan-
+adoption purposes that describe how they seek to accrue tagesofthetechnology.ThenImustthinkabouthow
+123J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021) 15
+I can make this visible in the organization. Then I we summarize the theoretical contributions and practical
+must think about how I can build up the competen- implicationsof ourwork aswell as ourpaperâs limitations
+cies. Then I must think about how I can spread this and promising future research avenues.
+throughouttheorganizationsothatitultimatelyleads
+to a continuous change process. These are relatively 5.1 Conceptualizing Organizational AI Readiness
+easythingstowritedownonpaper,butinreallife,it for Successful AI Adoption
+looks a bit different.ââ (E09)
+Our interviews emphasize that successful AI adoption
+Building on prototypes, experiments, and preceding
+requires both understanding and managing AI readiness.
+projectsasstepsofAIadoption,companiesmaythenpush
+Further, drawing on the literature on organizational readi-
+their AI adoption purpose to shift over time. For example,
+nessforchangeandtechnologyadoption,wearguethatAI
+they may opt to start with internal applications before
+readiness is a valuable concept to account for the tech-
+involving the customer interface. Again, this emphasizes
+nology and context specifics of readiness (Lokuge et al.
+AIâsspecificsasaGPTthatoffersvariousopportunitiesbut
+2018). We build on the TOE framework, an established
+also necessitates an individual understanding of each
+construct of organizational adoption literature, to concep-
+application scenario.
+tualizeAIreadinessfromanorganizationalperspective.AI
+ââThere is my directive that we [â¦] learn how to use poseschallengesandopportunitiesthatdifferentiateitfrom
+AI. Not at the interface of customers and intermedi- other technologies (see Sect. 2.3 for further details). This
+aries but in internal processes. I would not like to emphasizes the need for a specific AI readiness consider-
+have our learning curve at the expense of our cus- ation against the backdrop of existing literature on readi-
+tomers or intermediaries if the AI is not yet working nessandtechnologyadoption.Weaimtopresentaholistic
+well.ââ (E12) conceptualization of AI readiness allowing researchers to
+understandwhatourresultsbuildonandtoextendexisting
+Thus, over time, AI readiness is a recurring issue that
+knowledge. Considering AIâs nature as a GPT, we posit
+must follow the specific AI adoption purpose at hand and
+two important perspectives on the AI readiness factors.
+consider previous experiences and improvements to the
+First, ourresults yield new AI-specific readinessfactors
+organizational AI readiness level. Therefore, our intervie-
+that emerge from AIâs distinct features. This includes, for
+weesdescribeAIreadinessandAIadoptionasintertwined
+instance,factorsofthecategorydatawhichistheessential
+concepts that mutually demand and foster each other. In
+inputofAImodels,orfactorssuchasAIethicsthatemerge
+that, AI readiness fosters successful AI adoption (or suc-
+from potentially biased AI outcomes (Tambe et al. 2018).
+cessful AI adoption necessitates AI readiness) and suc-
+Second, our interviews corroborate readiness factors that
+cessful AI adoption fosters AI readiness for future
+are comparable to adopting any other technology and are
+application scenarios (or AI readiness necessitates suc-
+also relevant for AI adoption. For instance, our results
+cessful AI adoption in smaller experiences to make AIâs
+confirm the relevance of the well-known adoption factors
+potential comprehensible).
+top management support (Sharma and Yetton 2003) and
+ââI think people have to experience some kind of collaboration (Dewi and Ahamat 2018) for AI adoption.
+epiphany [â¦]. And I believe that these aha experi- However,although suchfactorsmay bealmostuniversally
+ences [â¦] is what ultimately makes it so that the valid, AI requires taking a context-specific perspective on
+acceptance then increases. That means also, in the the AI readiness factors. Hence, dependent on the specific
+whole chicken-and-egg principle, is what I develop context of AI adoption, companies must rearrange their
+actually what is accepted?ââ (E07) organizational chassis and derive appropriate measures to
+foster the necessary AI readiness factors. Additionally, we
+argue that AI implies a purpose-specific consideration
+5 Discussion owingtoAIâsnatureasaGPTthatoffersabroadvarietyof
+application scenarios. Hence, organizationsâ adoption pur-
+In the following, we will position the results of our posesmayvaryovertime.Likewise,AIadoptionrequiresa
+exploratory interview study within the existing adoption continuousassessmentoftheAIreadinessfactorsbasedon
+and readiness literature. Thereby, we conceptualize AI the intended adoption purpose. Therefore, AI as a GPT
+readinessasavaluableadditiontothescholarlyknowledge demands a new understanding of the readiness and adop-
+base and a necessary foundation for successful AI adop- tion concept that is both context- and purpose-specific.
+tion.Further,wediscusstheinterdependenciesbetweenAI Given our results, we conceptualize AI readiness being
+readinessandAIadoptionasintertwinedconcepts.Finally, twofold. First,AI readiness comprises 18 readinessfactors
+alongfivecategoriesthatprovidetheorganizationalchassis
+12316 J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021)
+for developing AI readiness. Second, beyond the specific well as the literature on managing AI in organizations is
+factors, AI readiness entails the understanding of pur- threefold.
+poseful AI adoption. Thus, conceptualizing AI readiness First, our paper provides additional empirical ground-
+doesnotonlycompriseitsconstitutingfactorsbutalsotheir work for theorizing on readiness and adoption. We inte-
+implications for a purposeful assessment, deriving action grate AI readiness into the process of AI adoption and the
+fields and suitable measures, and continuous consideration underlying innovation and technology adoption concepts.
+during advancing AI adoption. We show that readiness is an integral element throughout
+However, literature commonly describes adoption and theentireadoptionprocessinsteadofaprecursorcondition
+readinessonlyastwovaguelyrelatedconcepts.Integrative (Lippert and Davis 2006). Thus, we conclude that it is not
+work to unveil their interdependencies is rare (Molla and sufficient to establish readiness once before technology
+Licker 2005). Thus, the readiness concept is often limited adoption because both concepts are highly interdependent
+to being a sequential precursor to the broader adoption and mutually reinforcing. In contrast, the concepts of
+concept(LippertandDavis2006).Similarly,theemerging readinessandadoptionneedtobediscussedinconjunction
+literature on AI adoption and readiness lacks a thorough but as distinct concepts that each offers a valuable lens on
+discussion of how the two concepts go hand in hand when (intended) technology use in organizations. So far, litera-
+companiesseektobenefitfromAIâspotentials(Alsheibani ture has failed to take such an integrative stance. We
+etal.2018;Pumplunetal.2019).Fromourinterviews,we understand our work as a step in this direction to better
+emphasizetheneedtoestablishthenecessaryprerequisites guide managerial actions for organizational readiness that
+for AI use in companies. Further, we put forward two unfold their full potential for successful technology
+important considerations to integrate adoption and readi- adoption.
+ness literature in the context of AI. First, AI adoption and Second, we contribute to the emerging literature on AI
+readinessaredistinctyethighlyinterdependent.GivenAIâs readiness and AI adoption (Alsheibani et al. 2018; Pum-
+inherent complexity and the arising new organizational plun et al. 2019). Based on AIâs underlying technological
+necessities, AI readiness must be an integral part of com- characteristicsandthearisingorganizationalnecessitiesfor
+paniesâ decisions across the entire adoption process to successfulAIadoption,wederived18AIreadinessfactors
+guide investments, prioritization, and resource allocation in five categories that conceptualize AI readiness. With
+(Baier et al. 2019). Consequently, understanding and illustrative indicators, we provide a starting point for dis-
+assessing AI readiness is an important means to purpose- tinctactionfieldsfordevelopingAIreadiness.Indoingso,
+fully adapt the organizational chassis for successful AI we corroborate existing factors but also provide additional
+adoption (Pumplun et al. 2019). Second, AI adoption and factors accounting for AIâs specifics. We posit that AI
+readiness mutually reinforce (or restrict) one another. AI poses different opportunities and challenges compared to
+adoption often follows cycles of exploring and piloting other technologies owing to its nature as GPT. Thus, AI
+individual use cases, gradually expanding across compa- requires a more thorough and integrated understanding of
+niesâ processes and departments (Hofmann et al. 2020). readiness and adoption because it offers a broad variety of
+Thus,AIreadinessbecomesapermanentyetfluidissuefor application scenarios. Thus, we argue that while we draw
+companies instead of a one-time consideration because AI on our existing understanding of the two concepts, AI
+readiness requirements may vary with the intended use of readiness requires both context- and purpose-specific con-
+AIâs potentials and experience from prior cycles. sideration. The holistic nature of our categories, factors,
+In sum, we conceptualize AI readiness with its 18 fac- andillustrativeindicatorsmayalsoserveasablueprintfor
+tors not as a mere precursor condition but as a foundation deriving relevant organizational readiness factors for other
+and integral element throughout the entire AI adoption (digital) technologies and elaborating on the interdepen-
+process (see Fig. 3). Both concepts foster and necessitate dencies between their respective adoption purpose and
+eachotherwhichleadstoamutuallyreinforcingandhighly success (Lokuge et al. 2018).
+intertwined nature. Hence, with changing context and Third,wecontributetotheliteratureonmanagingAIin
+adoption purposes, AI readiness requires perpetual organizations (Brynjolfsson and Mitchell 2017). Compa-
+consideration. nies face several difficulties during AI adoption, for
+instance, the identification of suitable use cases to utilize
+5.2 TheoreticalContributionandPracticalImplications AIâs potentials (Hofmann et al. 2020). By conceptualizing
+organizational AI readiness, we provide relevant factors
+Summarizing the results and discussion above, our work and indicators to better understand and assess what mea-
+empirically conceptualizes AI readiness and its roles for sures organizations require for successful AI adoption.
+successful AI adoption. The contribution to both the Further, we argue that assessing AI readiness exposes
+broader literature on technology adoption and readiness as action fields for AI adoption stemming from both AIâs
+123J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021) 17
+AI adoption
+Initiation Adoption decision Implementation
+fosters/ fosters/
+AI adoption purpose
+necessitates necessitates
+Organizational AI readiness
+Strategic alignment Resources Knowledge Culture Data
+(cid:129) AI-business potentials (cid:129) Financial budget (cid:129) AI awareness (cid:129) Innovativeness (cid:129) Data availability
+(cid:129) Customer AI readiness (cid:129) Personnel (cid:129) Upskilling (cid:129) Collaborative work (cid:129) Data quality
+(cid:129) Top management support (cid:129) IT infrastructure (cid:129) AI ethics (cid:129) Change management (cid:129) Data accessibility
+(cid:129) AI-process fit (cid:129) Data flow
+(cid:129) Data-driven decision-making
+Fig.3 IntegratingAIReadinessintheAIAdoptionProcess
+context and purpose specifics. Thus, research into AI could also help to differentiate AI readiness factors
+readiness can help to alleviate the difficulties with AI depending on the organizational context and specific AI
+adoption and propose suitable adaptations to the organi- adoption purpose (Bughin et al. 2017; Pumplun et al.
+zational chassis as prescriptive guidance. Thus, our results 2019).
+serveasthedescriptivegroundworkforfurtherresearchon Further, we provided insights into the complex interre-
+AI management inorganizations, organizational readiness, lations of AI readiness based on our comprehensive
+and technology adoption. understanding and discussion of AI readiness factors.
+Regarding practical implications, our paper grants However, we do not elucidate the factorsâ and indicatorsâ
+insights into opportunities and challenges for AI adoption. prioritizationandweightingconcerningtheoverarchingAI
+The AI readiness factors provide comprehensive guidance adoption purpose and specific organizational contingen-
+to decision-makers on relevant managerial action fields. cies.Thus,futureworkmaycontinuetovalidatethefactors
+BasedonanAIreadinessassessment,decision-makersmay and our self-developed illustrative indicators in a first step
+reflect and adapt the factors to specific organizational to explore how individual factors and their combinations
+needs.SettinganddevelopingadequateAIreadinesstarget influence AI adoption success in the subsequent step. A
+levelsiscompulsoryinordertoderiveactionablemeasures quantitativeresearchapproachsimilartoourexemplaryAI
+for successful AI adoption. Thus, our results assist orga- readiness assessment seems promising to further validate
+nizations in managing the AI adoption process and guide our results (see similar work from other domains, e.g.,
+AI investments, resource allocation, and prioritization. Lokuge et al. 2018; Yang et al. 2015).
+Finally, our findings explicate the need for context-
+5.3 Limitations and Future Research specific considerations for organizational readiness by
+referring to AIâs characteristics. While we propose AI
+Our results are subject to limitations that stimulate further readiness factors, we also acknowledge that synergies
+research. According to our purposive cross-industry inter- concerning the readiness for other (digital) technologies
+view sample, our results primarily reflect the perspectives may exist. A comparison of organizational readiness fac-
+of experts in management positions. Further research may tors for several technologies based on their underlying
+address this limitation by two different means: First, technological features lies beyond the scope of our paper.
+sampling across various job levels could broaden the per- Such research could add to a more comprehensive under-
+ceptions and judgments on AI readiness. Second, we pro- standingoforganizationalnecessitiesascompaniesusually
+pose to further explore organizationsâ specifics for AI strivetoadoptandcombinemultiple(digital)technologies.
+adoption, for instance, through in-depth case studies. This
+12318 J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021)
+6 Conclusion Alsheibani SA, Cheung Y, Messom C (2019) Factors inhibiting the
+adoption of artificial intelligence at organizational-level: a
+preliminaryinvestigation.In:AMCIS2019Proceedings,CancuÂ´n
+This paper provided a thorough conceptualization of
+BaierL,JoÂ¨hrenF,SeebacherS(2019)Challengesinthedeployment
+organizational AI readiness. We combined insights from and operation of machine learning in practice. In: ECIS 2019
+interviews with 25AIexperts with findings fromscientific Proceedings,Stockholm-Uppsala
+and practitioner literature to compile 18 AI readiness fac- Baslom MMM, Tong S (2019) Strategic management of organiza-
+tional knowledge and employeeâs awareness about artificial
+tors and 58 illustrative indicators in five categories. Fur-
+intelligence with mediating effect of learning climate. Int J
+ther, we discussed that organizations must continuously ComputIntellSyst12:1585â1591
+assess and develop their AI readiness in the AI adoption Bawack R, Wamba S, Carillo K (2019) Artificial intelligence in
+process and described relevant aspects to consider. This practice: implications for information systems research. In:
+AMCIS2019Proceedings,CancuÂ´n
+includes AIâs nature as a GPT, the context- and purpose-
+BhattacherjeeA(2012)Socialscienceresearch:principles,methods,
+specifics, and the mutually reinforcing interplay of AI and practices, 2nd edn. CreateSpace Independent Publishing
+readinessandAIadoption.Futureresearchshouldvalidate Platform,NorthCharleston
+ourfindingsandexaminetheimpactsofcontingenciesand Boateng GO, Neilands TB, Frongillo EA, Melgar-QuinËonez HR,
+Young SL (2018) Best practices for developing and validating
+prioritizing AI readiness factors on AI adoption success.
+scalesforhealth,social,andbehavioralresearch:aprimer.Front
+PublicHealth6:149â167
+Acknowledgments This research was (in part) carried out in the Bresnahan TF, Trajtenberg M (1995) General purpose technologies
+contextoftheProjectGroupBusiness&InformationSystemsEngi- âenginesofgrowthâ?JEconom65:83â108
+neeringoftheFraunhoferFIT. Brill TM, Munoz L, Miller RJ (2019) Siri, Alexa, and other digital
+assistants: a study of customer satisfaction with artificial
+Funding Open Access funding enabled and organized by Projekt intelligenceapplications.JMarkManag35:1401â1436
+DEAL. Brynjolfsson E, McAfee A (2017) The business of artificial intelli-
+gence: What it can â and cannot â do for your organization.
+Open Access This article is licensed under a Creative Commons Harvard business review. https://starlab-alliance.com/wp-con
+Attribution 4.0 International License, which permits use, sharing, tent/uploads/2017/09/The-Business-of-Artificial-Intelligence.
+adaptation,distributionandreproductioninanymediumorformat,as pdf.Accessed12Mar2020
+long as you give appropriate credit to the original author(s) and the Brynjolfsson E, Mitchell T (2017) What can machine learning do?
+source,providealinktotheCreativeCommonslicence,andindicate Workforceimplications.Science358:1530â1534
+ifchangesweremade.Theimagesorotherthirdpartymaterialinthis BughinJ,HazanE,RamaswamyS,HenkeN,TrenchM,DahlstroÂ¨m
+articleareincludedinthearticleâsCreativeCommonslicence,unless P,AllasT,ChuiM(2017)Artificialintelligence:thenextdigital
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnot frontier. https://www.mckinsey.com/*/media/McKinsey/Indus
+includedinthearticleâsCreativeCommonslicenceandyourintended tries/Advanced\%20Electronics/Our\%20Insights/How\%20artifi
+useisnotpermittedbystatutoryregulationorexceedsthepermitted cial\%20intelligence\%20can\%20deliver\%20real\%20value\%
+use, you will need to obtain permission directly from the copyright 20to\%20companies/MGI-Artificial-Intelligence-Discussion-
+holder.Toviewacopyofthislicence,visithttp://creativecommons. paper.ashx.Accessed23Feb2020
+org/licenses/by/4.0/. Burton-Jones A, Grange C (2013) From use to effective use: a
+representationtheoryperspective.InfSystRes24:632â658
+CatalystFund(2020)GetstartedâAIreadinesstoolkit.https://www.
+techstartups101.com/get-started-ai-readiness-toolkit. Accessed
+References
+23Feb2020
+ChwelosP,BenbasatI,DexterAS(2001)Researchreport:empirical
+Abdinnour-Helm S, Lengnick-Hall ML, Lengnick-Hall CA (2003) testofanEDIadoptionmodel.InfSystRes12:304â321
+Pre-implementation attitudes and organizational readiness for ColsonE(2019)WhatAI-drivendecisionmakinglookslike.https://
+implementing an enterprise resource planning system. Euro J hbr.org/2019/07/what-ai-driven-decision-making-looks-like.
+OperRes146:258â273 Accessed23Feb2020
+Aboelmaged MG (2014) Predicting e-readiness at firm-level: an CorbinJM,StraussA(1990)Groundedtheoryresearch:procedures,
+analysis of technological, organizational and environmental canons,andevaluativecriteria.QualSociol13:3â21
+(TOE) effects on e-maintenance readiness in manufacturing Damanpour F, Schneider M (2006) Phases of the adoption of
+firms.IntJInfManag34:639â651 innovationinorganizations:effectsofenvironment,organization
+AËgerfalkPJ(2020)Artificialintelligenceasdigitalagency.EuroJInf andtopmanagers.BrJManag17:215â236
+Syst29:1â8 Dattner B, Chamorro-Premuzic T, Buchband R, Schettler L (2019)
+Agrawal A, Gans J, Goldfarb A (2018) Prediction machines: the ThelegalandethicalimplicationsofusingAIinhiring.https://
+simple economics of artificial intelligence. Harvard Business hbr.org/2019/04/the-legal-and-ethical-implications-of-using-ai-
+ReviewPress,Boston in-hiring.Accessed23Feb2020
+Ajzen I (1991) The theory of planned behavior. Organ Behav Hum Davenport T (2018) From analytics to artificial intelligence. J Bus
+DecisProc50:179â211 Anal1:73â80
+Alshawi M (2007) Rethinking IT in construction and engineering. Davis F (1985) A technology acceptance model for empirically
+Routledge,London testing new end-user information systems: theory and results.
+Alsheibani S, Cheung Y, Messom C (2018) Artificial intelligence Sloan SchoolofManagement, Massachusetts Institute ofTech-
+adoption: AI-readiness at firm-level. In: PACIS 2018 Proceed- nology,Massachusetts
+ings,Yokohama DeVellisRF(2017)Scaledevelopment:theoryandapplications,4th
+edn.Sage,ThousandOaks
+123J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021) 19
+DewiS,AhamatA(2018)Theroleofentrepreneurialorientationin LokugeS,SederaD,GroverV,DongmingX(2018)Organizational
+achieving organization performance through business model readiness for digital innovation: development and empirical
+innovationandassetrelationalcollaboration.HumSocSciRev calibrationofaconstruct.InfManag56:445â461
+6:100â105 Magistretti S, DellâEra C, Messeni Petruzzelli A (2019) How
+FishbeinM,AjzenI(1975)Belief,attitude,intentionandbehavior:an intelligent is Watson? enabling digital transformation through
+introduction to theory and research. Addison-Wesley series in artificialintelligence.BusHoriz62:819â829
+socialpsychology.Addison-Wesley,Reading,Boston Microsoft (2020) Determine how ready your business is for AI.
+FlickU,vonKardorffE,SteinkeI(2004)Acompaniontoqualitative https://info.microsoft.com/ww-landing-ai-maturity-model-web
+research.Sage,London site.html?lcid=en-us.Accessed23Feb2020
+Fountaine T, McCarthyB, Saleh T(2019)Building theAI-powered Molla A, Licker PS (2005) Perceived e-readiness factors in e-com-
+organization.HarvBusRev97:62â73 merce adoption: an empirical investigation in a developing
+Frambach RT, Schillewaert N (2002) Organizational innovation country.IntJElectronCommer10(1):83â110
+adoption: a multi-level framework of determinants and oppor- MollaA,CooperV,PittayachawanS(2009)ITandeco-sustainabil-
+tunitiesforfutureresearch.JBusRes55:163â176 ity: developing and validating a green IT readiness model. In:
+Gallivan MJ (2001) Organizational adoption and assimilation of ICIS2009Proceedings,Phoenix
+complextechnologicalinnovations.SIGMISDatabase32:51 Moore GC, Benbasat I (1991) Development of an instrument to
+Gartner(2019)CIOagendasurvey.https://www.gartner.com/smarter measuretheperceptionsofadoptinganinformationtechnology
+withgartner/3-barriers-to-ai-adoption/.Accessed26June2020 innovation.InfSystRes2:192â222
+Ghosh B, Daugherty PR, Wilson HJ, Burden A (2019) Taking a Myers MD, Newman M (2007) The qualitative interview in IS
+systemsapproachtoadoptingAI.HarvBusRevMay research:examiningthecraft.InfOrgan17:2â26
+Gopalakrishnan S, Damanpour F (1997) A review of innovation Nguyen DK, Broekhuizen T, Dong JQ, Verhoef P (2019) Digital
+research in economics, sociology and technology management. readiness: construct development and empirical validation. In:
+Omega25:15â28 ICIS2019Proceedings,Munich
+GroopmanJ(2018)AIreadiness:fiveareasbusinessesmustprepare Oliveira T, Martins M (2011) Literature review of information
+forsuccessinartificialintelligence.https://www.kaleidoinsights. technologyadoptionmodelsatfirmlevel.EJISE14:110â121
+com/order-reports/artificial-intelligence-ai-readiness/. Accessed PAOfficeofAdministration(2018)Artificialintelligenceassessment
+23Feb2020 tool. https://www.oa.pa.gov/Policies/Documents/rfd\_bus012a.
+HameedMA,CounsellS,SwiftS(2012)Aconceptualmodelforthe xlsx.Accessed23Feb2020
+process of IT innovation adoption in organizations. J Eng Pringle T, Zoller E (2018) How to achieve AI maturity and why it
+TechnolManag29:358â390 matters: an AI maturity assessment model and road map for
+Helfat CE, Peteraf MA (2003) The dynamic resource-based view: CSPs. https://www.amdocs.com/sites/default/files/filefield\_
+capabilitylifecycles.StrategManagJ24:997â1010 paths/ai-maturity-model-whitepaper.pdf.Accessed23Feb2020
+Hofmann P, JoÂ¨hnk J, Protschky D, Urbach N (2020) Developing ProvostF,FawcettT(2013)Datascienceanditsrelationshiptobig
+purposefulAIusecasesâastructuredmethodanditsapplication dataanddata-drivendecisionmaking.BigData1:51â59
+inprojectmanagement.In:Wirtschaftsinformatik2020Proceed- Pumplun L, Tauchert C, and Heidt M (2019) A new organizational
+ings,Potsdam chassis for artificial intelligence â exploring organizational
+Hummer W, Muthusamy V, Rausch T, Dube P, El Maghraoui K, readiness factors. In: ECIS 2019 Proceedings, Stockholm-
+Murthi A, Oum P (2019) ModelOps: cloud-based lifecycle Uppsala
+management for reliable and trusted AI. In: IC2E 2019 Robey D, Im G, Wareham J (2008) Theoretical foundations of
+Proceedings,Prague empiricalresearchoninterorganizationalsystems:assessingpast
+Iacovou CL, Benbasat I, Dexter AS (1995) electronic data inter- contributionsandguidingfuturedirections.JAIS9:497â518
+change and small organizations: adoption and impact of RogersEM(2003)Diffusionofinnovations,5thedn.FreePress,New
+technology.MISQ19:465 York
+IansitiM,LakhaniKR(2020)CompetingintheageofAI.HarvBus Russell SJ, Norvig P, Davis E, Edwards D (2016) Artificial
+RevJanuaryâFebruary:60â67 intelligence:amodernapproach,3rdedn.Pearson,Edinburgh
+Intel(2018)TheAIreadinessmodel:judginganorganizationâsability SaldanËaJ(2013)Thecodingmanualforqualitativeresearchers,2nd
+to generate business value from artificial intelligence. https:// edn.Sage,LosAngeles
+www.intel.com/content/dam/www/public/us/en/documents/ Schultze U, Avital M (2011) Designing interviews to generate rich
+white-papers/ai-readiness-model-whitepaper.pdf. Accessed 23 dataforinformationsystemsresearch.InfOrgan21:1â16
+Feb2020 ShahrasbiN,PareÂ´G(2014)Rethinkingtheconceptoforganizational
+Jarrahi MH (2018) Artificial intelligence and the future of work: readiness: what can is researchers learn from the change
+Human-AI symbiosis in organizational decision making. Bus managementfield?In:AMCIS2014Proceedings,Savannah
+Horiz61:577â586 SharmaY(2003)Thecontingenteffectsofmanagementsupportand
+JovanovicB,RousseauPL(2005)Generalpurposetechnologies.vol task interdependence on successful information systems imple-
+1.Elsevier,Amsterdam,pp1181â1224 mentation.MISQ27:533
+KruseL,WunderlichN,BeckR(2019)Artificialintelligenceforthe Sidi F, Shariat Panahy PH, Affendey LS, Jabar MA, Ibrahim H,
+financial services industry: what challenges organizations to Mustapha A (2012) Data quality: a survey of data quality
+succeed.In:HICSS2019Proceedings dimensions.In:CAMPâ12,KualaLumpur
+LinY,JunZ,HongyanM,ZhongweiZ,ZhanfangF(2018)Amethod Snyder-Halpern R (2001) Indicators of organizational readiness for
+ofextractingthesemi-structureddataimplicationrules.Procedia clinical information technology/systems innovation: a Delphi
+CompSci131:706â716 study.IntJMedInform63:179â204
+LippertSK,DavisM(2006)Aconceptualmodelintegratingtrustinto Subramanian A, Nilakanta S (1996) Organizational innovativeness:
+planned change activities to enhance technology adoption exploring the relationship between organizational determinants
+behavior.JInfSci32:434â448 of innovation, types of innovations, and measures of organiza-
+tionalperformance.Omega24:631â647
+12320 J.JoÂ¨hnketal.:ReadyorNot,AIComes:AnInterviewStudyofOrganizationalAIReadinessFactors,BusInfSystEng63(1):5â20(2021)
+TambeP,CappelliP,YakubovichV(2018)Artificialintelligencein Weiner BJ (2009) A theory of organizational readiness for change.
+human resources management: challenges and a path forward. ImplementSci4:1â9
+CalifManagRev61:15â42 Yang Z, Sun J, Zhang Y, Wang Y (2015) Understanding SaaS
+Tornatzky LG, Fleischer M, Chakrabarti AK (eds) (1990) The adoption from the perspective of organizational users: a tripod
+processes of technological innovation, 4th edn. Lexington readinessmodel.ComputHumBehav45:254â264
+Books,Lexington YuanF,WoodmanRW(2010)Innovativebehaviorintheworkplace:
+Watson J, Hatfield S, Wright D, Howard M, Witherick D, Coe L, theroleofperformanceandimageoutcomeexpectations.Acad
+HortonR(2019)Automationwithintelligence:reimaginingthe ManagJ53:323â342
+organisation in the âage of withâ. https://www2.deloitte.com/
+content/dam/Deloitte/tw/Documents/strategy/tw-Automation-
+with-intelligence.pdf.Accessed8Mar2020
+123
