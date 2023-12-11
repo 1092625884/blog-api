@@ -30,8 +30,6 @@ article(https://doi.org/10.1007/s12599-020-00676-7)containssup- Ample access to 
 plementarymaterial,whichisavailabletoauthorizedusers.
 able AI use cases as well as corresponding solutions
 facilitate AI adoption in organizations. In 2019, 80\% of
-Acceptedaftertworevisionsbytheeditorsofthespecialissue
-large organizations aimed to adopt or had adopted some
 J.JoÂ¨hnk(&)(cid:2)K.Wyrtki form of AI (Gartner 2019; Ghosh et al. 2019). However,
 ProjectGroupBusiness&InformationSystemsEngineeringof
 most organizations use AI in single pilots, whereas only
