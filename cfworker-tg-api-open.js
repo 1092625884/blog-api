@@ -9,7 +9,6 @@ async function handleRequest(request) {
   if (method === "POST" && headers.get("content-type") === "application/json") {
     const json = await request.json()
     const toUrl = json.to
-    console.log(toUrl)
     const data = json.data
     let response = await fetch(toUrl, {
       method: "POST",
