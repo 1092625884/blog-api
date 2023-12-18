@@ -1,6 +1,5 @@
 BusInfSystEng63(1):5â20(2021)
 https://doi.org/10.1007/s12599-020-00676-7
-RESEARCH PAPER
 AI Readiness Factors
 Jan JoÂ¨hnk â¢ Malte WeiÃert â¢ Katrin Wyrtki
 Received:13March2020/Accepted:20October2020/Publishedonline:22December2020
