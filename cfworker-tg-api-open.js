@@ -1,6 +1,6 @@
 addEventListener("fetch", event => {
   let response = handleRequest(event.request)
-  return event.respondWith(response)
+  return event.respondWith(response);
 })
 
 async function handleRequest(request) {
