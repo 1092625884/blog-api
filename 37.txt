@@ -2,7 +2,6 @@ https://doi.org/10.1007/s12599-020-00676-7
 AI Readiness Factors
 Jan JoÂ¨hnk â¢ Malte WeiÃert â¢ Katrin Wyrtki
 Received:13March2020/Accepted:20October2020/Publishedonline:22December2020
-(cid:2)TheAuthor(s)2020
 Abstract Artificial intelligence (AI) offers organizations correspondingindicatorsforAIreadinessassessments,and
 much potential. Considering the manifold application discussesthegeneralimplicationsforAIadoption.Thisisa
 areas, AIâs inherent complexity, and new organizational firststeptowardconceptualizingrelevantorganizationalAI
